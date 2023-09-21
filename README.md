@@ -4,7 +4,7 @@ Repositori ini berisi kode untuk tes teknis yang melibatkan php, laravel, dan sq
 
 ## Structure Data Test
 
-Sub bagian ini berisi tes yang wajib menggunakan bahasa php. Saya menyediakan dua solusi berupa kode untuk setiap soal. Anda dapat melihat kode saya di cabang [data-structures-test](https://github.com/agisx/php-laravel-sql-test-A/tree/data-structures-test).
+Sub bagian ini berisi tes yang wajib menggunakan bahasa php. Saya diberi dua pertanyaan dan memberikan berupa kode untuk setiap soal. Anda dapat melihat kode saya di cabang [data-structures-test](https://github.com/agisx/php-laravel-sql-test-A/tree/data-structures-test).
 
 ## Programming Test
 
